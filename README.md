@@ -1,16 +1,18 @@
 
 <div align="center">
 
-# Hi there, I'm Duc! 👋
+# 👋 Hi, I'm Duc!
 
-### 💻 Software Engineer | 🎮 Game Developer | 🎨 Pixel Artist
+### Software Engineer · Game Developer · Pixel Artist
 
-**Web Development • RPA • 2D Animation • UI/UX • Game Music**
+**Web Development | Game Development | RPA | UI/UX | 2D Animation | Game Music**
 
 *From code to pixels, from animation to music.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=DucTrinh278&color=blue)
-![Followers](https://img.shields.io/github/followers/DucTrinh278?style=flat&color=blue)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DucTrinh278&label=Profile+Views&color=6366f1&style=flat-square)
+![Followers](https://img.shields.io/github/followers/DucTrinh278?label=Followers&style=flat-square&color=6366f1)
 
 </div>
 
@@ -18,71 +20,84 @@
 
 ## 👨‍💻 About Me
 
-I'm **Duc**, a Software Engineering student at **FPT University, Vietnam**, passionate about software development and digital creativity.
+Hi! I'm **Duc**, a Software Engineering student at **FPT University, Vietnam** 🇻🇳
 
-I'm a multidisciplinary developer who enjoys building web applications, developing games, creating pixel art and 2D animations, designing interfaces, and composing original game music.
+I'm a multidisciplinary developer passionate about combining **technology, art, and creativity** to build software and interactive experiences.
 
-- 🎓 **Education:** Software Engineering — FPT University
-- 🌏 **Experience:** 4-month international RPA internship in the Philippines
-- 🎮 **Game Development:** Unity, C#, 2D Games & Game Design
-- 🎨 **Creative Work:** Pixel Art, Sprite Animation, UI/UX & Game Music
-- 💻 **Software:** Web Development, SQL & Automation
+- 🎓 **Software Engineering** — FPT University
+- 🌏 **International Experience** — 4-month RPA internship in the Philippines
+- 💻 **Software Development** — Web Applications, SQL & Automation
+- 🎮 **Game Development** — Unity, C#, 2D Games & Game Design
+- 🎨 **Digital Art** — Pixel Art, Sprites & Frame-by-Frame Animation
+- 🎵 **Music Production** — Original Game Music & Soundtracks
+- 🖌️ **UI/UX Design** — Figma, Game Interfaces & Prototyping
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Web
+### 💻 Programming Languages & Web
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TSQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-### 🎮 Game Development & Creative Tools
+### 🎮 Game Development & Digital Art
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Pixel Art](https://img.shields.io/badge/Pixel_Art-FF69B4?style=for-the-badge)
-![2D Animation](https://img.shields.io/badge/2D_Animation-9B59B6?style=for-the-badge)
-![Game Music](https://img.shields.io/badge/Game_Music-8E44AD?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pixel_Art-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2D_Animation-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game_Design-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game_Music-9333EA?style=for-the-badge"/>
+</p>
 
-### 🤖 Automation & Development Tools
+### 🎨 Design, Automation & Tools
 
-![RPA](https://img.shields.io/badge/RPA-0078D4?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPA-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Type |
-|---|---|---|
-| 🎮 [The TVA Tracker](https://github.com/DucTrinh278/TheTVATracker) | Unity-based 2D pixel-art tracker | Personal |
-| 🌌 [Marvel Cosmic Invasion 2](https://github.com/DucTrinh278/Marvel-Cosmic-Invasion-2) | Fan-made 2D game concept | Personal |
-| 🌐 [JobEve](https://github.com/Lunadevv/JobEve) | Collaborative web application | Team |
-| 🏠 [CoHabit API](https://github.com/Lunadevv/CoHabit.API) | Backend API development | Team |
-| 💻 [CoHabit Web](https://github.com/Lunadevv/CoHabit.Web) | Web application development | Team |
+| Project | Description | Category |
+|:---|:---|:---|
+| 🎮 [**The TVA Tracker**](https://github.com/DucTrinh278/TheTVATracker) | Unity-based 2D pixel-art multiverse tracker | Personal Game |
+| 🌌 [**Marvel Cosmic Invasion 2**](https://github.com/DucTrinh278/Marvel-Cosmic-Invasion-2) | Fan-made 2D game concept and development project | Game |
+| 🌐 [**JobEve**](https://github.com/Lunadevv/JobEve) | Collaborative web application | Team Project |
+| 🏠 [**CoHabit API**](https://github.com/Lunadevv/CoHabit.API) | Backend API for a web application | Team Project |
+| 💻 [**CoHabit Web**](https://github.com/Lunadevv/CoHabit.Web) | Web application development | Team Project |
 
-*More game, web, and RPA projects coming soon.*
+> More projects in Web Development, Game Development, and RPA are being organized.
 
 ---
 
 ## 🎨 Creative Portfolio
 
-Beyond programming, I create original assets and experiences for 2D games.
+I enjoy working across multiple creative disciplines to bring 2D game concepts to life.
 
 | 🎨 Pixel Art | 🎞️ 2D Animation | 🎵 Game Music |
-|---|---|---|
-| Characters, sprites, tilesets & environments | Frame-by-frame animations & sprite sheets | Original compositions, BGM & soundtracks |
+|:---:|:---:|:---:|
+| Character sprites, tilesets & environments | Frame-by-frame animation & sprite sheets | Original BGM & game soundtracks |
 
-*Artwork, animations, and music previews coming soon.*
+**Creative Focus:**
+
+`Character Design` · `Sprite Animation` · `Game UI` · `Pixel Art` · `Worldbuilding` · `Music Composition`
+
+*Original artwork, animation previews, and music samples will be added soon.*
 
 ---
 
@@ -90,31 +105,26 @@ Beyond programming, I create original assets and experiences for 2D games.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DucTrinh278&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DucTrinh278&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-</div>
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTrinh278&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Most Used Languages"/>
-
-</div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
+<br>
 
 <img src="https://streak-stats.demolab.com?user=DucTrinh278&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-### 📈 Contribution Activity
+---
+
+## 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DucTrinh278&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TSQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
 
 </div>
 
@@ -126,8 +136,10 @@ Beyond programming, I create original assets and experiences for 2D games.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DucTrinh278-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DucTrinh278)
 
-**Code • Create • Animate • Compose**
+<br>
 
-*Thanks for visiting! ⭐*
+### Code • Create • Animate • Compose
+
+*Thanks for visiting my profile! ⭐*
 
 </div>
