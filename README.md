@@ -72,6 +72,18 @@ I'm a multidisciplinary developer who enjoys building web applications, developi
 
 ---
 
+
+<h2>📊 Most Used Languages</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTrinh278&layout=compact&theme=dark&hide_border=false&langs_count=8"
+    alt="Most Used Languages"
+  />
+</div>
+
+---
+
 ## 🎨 Creative Portfolio
 
 Beyond programming, I create original assets and experiences for 2D games.
