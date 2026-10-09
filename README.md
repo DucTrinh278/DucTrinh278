@@ -128,12 +128,12 @@ I enjoy working across multiple creative disciplines to bring 2D game concepts t
 ---
 
 
-## 💻 Programming Languages
+## 💻 Programming Languages & Markup
 
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </div>
