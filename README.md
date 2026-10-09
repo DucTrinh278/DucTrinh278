@@ -38,7 +38,9 @@ I'm a multidisciplinary developer who enjoys building web applications, developi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TSQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🎮 Game Development & Creative Tools
 
@@ -62,25 +64,13 @@ I'm a multidisciplinary developer who enjoys building web applications, developi
 
 | Project | Description | Type |
 |---|---|---|
-| **The TVA Tracker** | Unity-based 2D pixel-art character and timeline tracker | Personal |
-| **Marvel Cosmic Invasion 2** | Fan-made 2D game concept and development project | Personal |
-| **JobEve** | Collaborative web application project | Team |
-| **CoHabit** | Web application with separate frontend and backend | Team |
-| **RPA Projects** | Workflow automation and process-oriented solutions | Internship / Personal |
+| 🎮 [The TVA Tracker](https://github.com/DucTrinh278/TheTVATracker) | Unity-based 2D pixel-art tracker | Personal |
+| 🌌 [Marvel Cosmic Invasion 2](https://github.com/DucTrinh278/Marvel-Cosmic-Invasion-2) | Fan-made 2D game concept | Personal |
+| 🌐 [JobEve](https://github.com/Lunadevv/JobEve) | Collaborative web application | Team |
+| 🏠 [CoHabit API](https://github.com/Lunadevv/CoHabit.API) | Backend API development | Team |
+| 💻 [CoHabit Web](https://github.com/Lunadevv/CoHabit.Web) | Web application development | Team |
 
-*Project links, demos, and individual contributions are being organized.*
-
----
-
-
-<h2>📊 Most Used Languages</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTrinh278&layout=compact&theme=dark&hide_border=false&langs_count=8"
-    alt="Most Used Languages"
-  />
-</div>
+*More game, web, and RPA projects coming soon.*
 
 ---
 
@@ -102,9 +92,29 @@ Beyond programming, I create original assets and experiences for 2D games.
 
 <img src="https://github-readme-stats.vercel.app/api?username=DucTrinh278&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTrinh278&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTrinh278&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Most Used Languages"/>
+
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DucTrinh278&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DucTrinh278&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
